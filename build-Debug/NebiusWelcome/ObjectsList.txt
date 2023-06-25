@@ -1,0 +1,1 @@
+../build-Debug/NebiusWelcome/main.cpp.o   

@@ -1,0 +1,81 @@
+[{
+  "file": "C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round877\\main.cpp",
+  "directory": "C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round877",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round877\\main.cpp -o C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round877\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++ -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=gnu++17  -Wall"
+ }, {
+  "file": "C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round876\\main.cpp",
+  "directory": "C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round876",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round876\\main.cpp -o C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round876\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++ -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=gnu++17  -Wall"
+ }, {
+  "file": "C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round875\\main.cpp",
+  "directory": "C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round875",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round875\\main.cpp -o C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round875\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++ -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=gnu++17  -Wall"
+ }, {
+  "file": "C:\\Users\\JAGADEESH\\Documents\\CodeForces\\EdRound149\\main.cpp",
+  "directory": "C:\\Users\\JAGADEESH\\Documents\\CodeForces\\EdRound149",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\JAGADEESH\\Documents\\CodeForces\\EdRound149\\main.cpp -o C:\\Users\\JAGADEESH\\Documents\\CodeForces\\EdRound149\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++ -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\JAGADEESH\\Documents\\CodeForces\\RandomProblems\\main.cpp",
+  "directory": "C:\\Users\\JAGADEESH\\Documents\\CodeForces\\RandomProblems",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\JAGADEESH\\Documents\\CodeForces\\RandomProblems\\main.cpp -o C:\\Users\\JAGADEESH\\Documents\\CodeForces\\RandomProblems\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++ -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round872\\main.cpp",
+  "directory": "C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round872",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round872\\main.cpp -o C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round872\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++ -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round859\\main.cpp",
+  "directory": "C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round859",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round859\\main.cpp -o C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round859\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++ -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\JAGADEESH\\Documents\\CodeForces\\EdRound144\\main.cpp",
+  "directory": "C:\\Users\\JAGADEESH\\Documents\\CodeForces\\EdRound144",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\JAGADEESH\\Documents\\CodeForces\\EdRound144\\main.cpp -o C:\\Users\\JAGADEESH\\Documents\\CodeForces\\EdRound144\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++ -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round881\\main.cpp",
+  "directory": "C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round881",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round881\\main.cpp -o C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round881\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++ -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=gnu++17  -Wall"
+ }, {
+  "file": "C:\\Users\\JAGADEESH\\Documents\\CodeForces\\EdRound150\\main.cpp",
+  "directory": "C:\\Users\\JAGADEESH\\Documents\\CodeForces\\EdRound150",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\JAGADEESH\\Documents\\CodeForces\\EdRound150\\main.cpp -o C:\\Users\\JAGADEESH\\Documents\\CodeForces\\EdRound150\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++ -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=gnu++17  -Wall"
+ }, {
+  "file": "C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Practise\\main.cpp",
+  "directory": "C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Practise",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Practise\\main.cpp -o C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Practise\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++ -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\JAGADEESH\\Documents\\CodeForces\\GlobalRound24\\main.cpp",
+  "directory": "C:\\Users\\JAGADEESH\\Documents\\CodeForces\\GlobalRound24",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\JAGADEESH\\Documents\\CodeForces\\GlobalRound24\\main.cpp -o C:\\Users\\JAGADEESH\\Documents\\CodeForces\\GlobalRound24\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++ -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round854\\main.cpp",
+  "directory": "C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round854",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round854\\main.cpp -o C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round854\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++ -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=gnu++17  -Wall"
+ }, {
+  "file": "C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round849\\main.cpp",
+  "directory": "C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round849",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round849\\main.cpp -o C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round849\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++ -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\JAGADEESH\\Documents\\CodeForces\\CodeTonRound5\\main.cpp",
+  "directory": "C:\\Users\\JAGADEESH\\Documents\\CodeForces\\CodeTonRound5",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\JAGADEESH\\Documents\\CodeForces\\CodeTonRound5\\main.cpp -o C:\\Users\\JAGADEESH\\Documents\\CodeForces\\CodeTonRound5\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++ -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=gnu++17  -Wall"
+ }, {
+  "file": "C:\\Users\\JAGADEESH\\Documents\\CodeForces\\GoobBye2022\\main.cpp",
+  "directory": "C:\\Users\\JAGADEESH\\Documents\\CodeForces\\GoobBye2022",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\JAGADEESH\\Documents\\CodeForces\\GoobBye2022\\main.cpp -o C:\\Users\\JAGADEESH\\Documents\\CodeForces\\GoobBye2022\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++ -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round841\\main.cpp",
+  "directory": "C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round841",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round841\\main.cpp -o C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round841\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++ -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round838\\main.cpp",
+  "directory": "C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round838",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round838\\main.cpp -o C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round838\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++ -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\JAGADEESH\\Documents\\CodeForces\\NebiusWelcome\\main.cpp",
+  "directory": "C:\\Users\\JAGADEESH\\Documents\\CodeForces\\NebiusWelcome",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\JAGADEESH\\Documents\\CodeForces\\NebiusWelcome\\main.cpp -o C:\\Users\\JAGADEESH\\Documents\\CodeForces\\NebiusWelcome\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++ -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round840\\main.cpp",
+  "directory": "C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round840",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round840\\main.cpp -o C:\\Users\\JAGADEESH\\Documents\\CodeForces\\Round840\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++ -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -g  -O0  -Wall"
+ }]

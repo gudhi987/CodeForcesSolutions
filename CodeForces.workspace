@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="CodeForces" Database="" Version="10000">
+  <Project Name="Round827" Path="Practise/Practise.project" Active="No"/>
+  <Project Name="GlobalRound24" Path="GlobalRound24/GlobalRound24.project" Active="No"/>
+  <Project Name="Round838" Path="Round838/Round838.project" Active="No"/>
+  <Project Name="Round840" Path="Round840/Round840.project" Active="No"/>
+  <Project Name="Round841" Path="Round841/Round841.project" Active="No"/>
+  <Project Name="GoobBye2022" Path="GoobBye2022/GoobBye2022.project" Active="No"/>
+  <Project Name="Round849" Path="Round849/Round849.project" Active="No"/>
+  <Project Name="Round854" Path="Round854/Round854.project" Active="No"/>
+  <Project Name="EdRound144" Path="EdRound144/EdRound144.project" Active="No"/>
+  <Project Name="NebiusWelcome" Path="NebiusWelcome/NebiusWelcome.project" Active="No"/>
+  <Project Name="Round859" Path="Round859/Round859.project" Active="No"/>
+  <Project Name="Round872" Path="Round872/Round872.project" Active="No"/>
+  <Project Name="EdRound149" Path="EdRound149/EdRound149.project" Active="No"/>
+  <Project Name="Round875" Path="Round875/Round875.project" Active="No"/>
+  <Project Name="Round876" Path="Round876/Round876.project" Active="No"/>
+  <Project Name="Round877" Path="Round877/Round877.project" Active="No"/>
+  <Project Name="EdRound150" Path="EdRound150/EdRound150.project" Active="No"/>
+  <Project Name="RandomProblems" Path="RandomProblems/RandomProblems.project" Active="No"/>
+  <Project Name="Round881" Path="Round881/Round881.project" Active="No"/>
+  <Project Name="CodeTonRound5" Path="CodeTonRound5/CodeTonRound5.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Round827" ConfigName="Debug"/>
+      <Project Name="GlobalRound24" ConfigName="Debug"/>
+      <Project Name="Round838" ConfigName="Debug"/>
+      <Project Name="Round840" ConfigName="Debug"/>
+      <Project Name="Round841" ConfigName="Debug"/>
+      <Project Name="GoobBye2022" ConfigName="Debug"/>
+      <Project Name="Round849" ConfigName="Debug"/>
+      <Project Name="Round854" ConfigName="Debug"/>
+      <Project Name="EdRound144" ConfigName="Debug"/>
+      <Project Name="NebiusWelcome" ConfigName="Debug"/>
+      <Project Name="Round859" ConfigName="Debug"/>
+      <Project Name="Round872" ConfigName="Debug"/>
+      <Project Name="EdRound149" ConfigName="Debug"/>
+      <Project Name="Round875" ConfigName="Debug"/>
+      <Project Name="Round876" ConfigName="Debug"/>
+      <Project Name="Round877" ConfigName="Debug"/>
+      <Project Name="EdRound150" ConfigName="Debug"/>
+      <Project Name="RandomProblems" ConfigName="Debug"/>
+      <Project Name="Round881" ConfigName="Debug"/>
+      <Project Name="CodeTonRound5" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Round827" ConfigName="Release"/>
+      <Project Name="GlobalRound24" ConfigName="Release"/>
+      <Project Name="Round838" ConfigName="Release"/>
+      <Project Name="Round840" ConfigName="Release"/>
+      <Project Name="Round841" ConfigName="Release"/>
+      <Project Name="GoobBye2022" ConfigName="Release"/>
+      <Project Name="Round849" ConfigName="Release"/>
+      <Project Name="Round854" ConfigName="Release"/>
+      <Project Name="EdRound144" ConfigName="Release"/>
+      <Project Name="NebiusWelcome" ConfigName="Release"/>
+      <Project Name="Round859" ConfigName="Release"/>
+      <Project Name="Round872" ConfigName="Release"/>
+      <Project Name="EdRound149" ConfigName="Release"/>
+      <Project Name="Round875" ConfigName="Release"/>
+      <Project Name="Round876" ConfigName="Release"/>
+      <Project Name="Round877" ConfigName="Release"/>
+      <Project Name="EdRound150" ConfigName="Release"/>
+      <Project Name="RandomProblems" ConfigName="Release"/>
+      <Project Name="Round881" ConfigName="Release"/>
+      <Project Name="CodeTonRound5" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
