@@ -19,7 +19,8 @@
   <Project Name="EdRound150" Path="EdRound150/EdRound150.project" Active="No"/>
   <Project Name="RandomProblems" Path="RandomProblems/RandomProblems.project" Active="No"/>
   <Project Name="Round881" Path="Round881/Round881.project" Active="No"/>
-  <Project Name="CodeTonRound5" Path="CodeTonRound5/CodeTonRound5.project" Active="Yes"/>
+  <Project Name="CodeTonRound5" Path="CodeTonRound5/CodeTonRound5.project" Active="No"/>
+  <Project Name="EdRound151" Path="EdRound151/EdRound151.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -43,6 +44,7 @@
       <Project Name="RandomProblems" ConfigName="Debug"/>
       <Project Name="Round881" ConfigName="Debug"/>
       <Project Name="CodeTonRound5" ConfigName="Debug"/>
+      <Project Name="EdRound151" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -66,6 +68,7 @@
       <Project Name="RandomProblems" ConfigName="Release"/>
       <Project Name="Round881" ConfigName="Release"/>
       <Project Name="CodeTonRound5" ConfigName="Release"/>
+      <Project Name="EdRound151" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
