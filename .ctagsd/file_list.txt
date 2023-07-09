@@ -12,6 +12,7 @@ C:\Users\JAGADEESH\Documents\CodeForces\EdRound150\main.cpp
 C:\Users\JAGADEESH\Documents\CodeForces\Practise\main.cpp
 C:\Users\JAGADEESH\Documents\CodeForces\GlobalRound24\main.cpp
 C:\Users\JAGADEESH\Documents\CodeForces\Round854\main.cpp
+C:\Users\JAGADEESH\Documents\CodeForces\Round882\main.cpp
 C:\Users\JAGADEESH\Documents\CodeForces\Round849\main.cpp
 C:\Users\JAGADEESH\Documents\CodeForces\CodeTonRound5\main.cpp
 C:\Users\JAGADEESH\Documents\CodeForces\GoobBye2022\main.cpp

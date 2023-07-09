@@ -4,9 +4,9 @@
   <wxString Value="C:\Users\JAGADEESH\Documents\CodeForces\CodeForces.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
-      <wxString Value="C:\Users\JAGADEESH\Documents\CodeForces\EdRound151\main.cpp" Name="FileName"/>
-      <int Value="107" Name="FirstVisibleLine"/>
-      <int Value="112" Name="CurrentLine"/>
+      <wxString Value="C:\Users\JAGADEESH\Documents\CodeForces\Round882\main.cpp" Name="FileName"/>
+      <int Value="150" Name="FirstVisibleLine"/>
+      <int Value="167" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
