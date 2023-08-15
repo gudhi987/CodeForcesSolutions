@@ -1,35 +1,77 @@
+//#include <iostream>
+//#include <bits/stdc++.h>
+//#define big 998244353
+//#define ll long long int
+//using namespace std;
+//void solution()
+//{
+//    int b,c,h;
+//    cin >> b >> c >> h;
+//    cout << 2*min(b-1,c+h)+1 << endl;
+//    
+//}
+//int main()
+//{
+//    int t;
+//    cin >> t;
+//    while(t--)
+//    {
+//        solution();
+//    }
+//    return 0;
+//}
+
 #include <iostream>
 #include <bits/stdc++.h>
 #define big 998244353
 #define ll long long int
 using namespace std;
+int count(int n,int k)
+{
+    int count=0;
+    while(n>0)
+    {
+        count++;
+        n/=k;
+    }
+    return count;
+}
 void solution()
 {
-    int n;
-    cin >> n;
-    int arr[n];
+    int n,k;
+    cin >> n >> k;
+    vector<int>arr(n);
     for(int i=0;i<n;i++)
     {
         cin >> arr[i];
     }
-    if(n==1)
+    map<int,set<int>>mp;
+    priority_queue<int>pq;
+    for(int i=0;i<n;i++)
     {
-        cout << "1" << endl;
-        return ;
+        if(arr[i]%k==0)
+        {
+            mp[arr[i]].insert(i);
+            pq.push(arr[i]);
+        }
+        else
+        {
+            mp[arr[i]%k].insert(i);
+            pq.push(arr[i]%k);
+        }
     }
-    int cur = arr[0];
-	int part = 1;
-	for(int i = 0; i < n; i++){
-		cur &= arr[i];
-		if(cur == 0){
-			if(i == n-1)break;
-			part++;
-			cur = arr[i + 1];
-		}
-	}
-	if(cur != 0)part--;
-	part = max(part,1);
-	cout << part << '\n';
+    
+    while(!pq.empty())
+    {
+        int top=pq.top();
+        for(auto it=mp[top].begin();it!=mp[top].end();it++)
+        {
+            cout << *it + 1 << " ";
+            pq.pop();
+        }
+        mp.erase(top);
+    }
+    cout << endl;
 }
 int main()
 {
