@@ -24,7 +24,13 @@
   <Project Name="Round882" Path="Round882/Round882.project" Active="No"/>
   <Project Name="EdRound152" Path="EdRound152/EdRound152.project" Active="No"/>
   <Project Name="Round890" Path="Round890/Round890.project" Active="No"/>
-  <Project Name="Round891" Path="Round891/Round891.project" Active="Yes"/>
+  <Project Name="Round891" Path="Round891/Round891.project" Active="No"/>
+  <Project Name="EdRound156" Path="EdRound156/EdRound156.project" Active="No"/>
+  <Project Name="Round874" Path="Round874/Round874.project" Active="No"/>
+  <Project Name="Round905" Path="Round905/Round905.project" Active="No"/>
+  <Project Name="EdRound160" Path="EdRound160/EdRound160.project" Active="No"/>
+  <Project Name="Round916" Path="Round916/Round916.project" Active="No"/>
+  <Project Name="Round918" Path="Round918/Round918.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -53,6 +59,12 @@
       <Project Name="EdRound152" ConfigName="Debug"/>
       <Project Name="Round890" ConfigName="Debug"/>
       <Project Name="Round891" ConfigName="Debug"/>
+      <Project Name="EdRound156" ConfigName="Debug"/>
+      <Project Name="Round874" ConfigName="Debug"/>
+      <Project Name="Round905" ConfigName="Debug"/>
+      <Project Name="EdRound160" ConfigName="Debug"/>
+      <Project Name="Round916" ConfigName="Debug"/>
+      <Project Name="Round918" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -81,6 +93,12 @@
       <Project Name="EdRound152" ConfigName="Release"/>
       <Project Name="Round890" ConfigName="Release"/>
       <Project Name="Round891" ConfigName="Release"/>
+      <Project Name="EdRound156" ConfigName="Release"/>
+      <Project Name="Round874" ConfigName="Release"/>
+      <Project Name="Round905" ConfigName="Release"/>
+      <Project Name="EdRound160" ConfigName="Release"/>
+      <Project Name="Round916" ConfigName="Release"/>
+      <Project Name="Round918" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
